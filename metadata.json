@@ -1,0 +1,6 @@
+{
+  "name": "BG Remove AI - Free In-Browser Background Remover",
+  "description": "Remove backgrounds from JPG, PNG, and WEBP images 100% free directly in your browser. Complete privacy with zero server uploads and instant transparent PNG downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

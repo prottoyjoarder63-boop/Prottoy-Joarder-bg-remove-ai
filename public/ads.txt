@@ -1,0 +1,4 @@
+# Google AdSense Publisher verification
+# Once you receive your Google AdSense Publisher ID (e.g. pub-1234567890123456),
+# replace pub-0000000000000000 below with your actual ID:
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

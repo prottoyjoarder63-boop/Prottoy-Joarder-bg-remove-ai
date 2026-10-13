@@ -1,11 +1,42 @@
-<div align="center">
+# BG Remove AI
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> Free In-Browser AI Background Removal Tool built with React, Vite, Tailwind CSS, and WebAssembly (IS-Net ONNX).
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **100% In-Browser Privacy**: Zero server uploads. Neural network segmentation runs locally inside visitor's browser memory via WebAssembly/WebGPU.
+- **Multiple Formats**: Supports JPG, JPEG, PNG, and WEBP images.
+- **Interactive Comparison**: Split before/after comparison slider, side-by-side view, and hold-to-toggle original.
+- **Backdrop Replacement**: Transparent checkerboard, pure white (Shopify/Amazon compliant), custom colors, gradients, and portrait bokeh blur.
+- **High-Resolution Exports**: Lossless transparent PNG downloads and clipboard copy.
+- **SEO & AdSense Ready**: Configured with `robots.txt`, `sitemap.xml`, and compliant `ads.txt`.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### 1. Prerequisites
+- Node.js 18+ installed on your computer
 
-</div>
+### 2. Installation
+```bash
+npm install
+```
+
+### 3. Run Locally
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### 4. Build for Production
+```bash
+npm run build
+```
+
+## Deploying to Vercel
+1. Push this repository to GitHub.
+2. Sign in to [Vercel](https://vercel.com).
+3. Click **Add New** > **Project** and select this repository.
+4. Framework Preset will auto-detect as **Vite**.
+5. Click **Deploy**.
+
+## License
+MIT License - Free for personal and commercial use.
