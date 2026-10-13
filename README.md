@@ -53,4 +53,11 @@ MIT License - Free for personal and commercial use.
     <meta name="google-site-verification" content="aXUdr07wypDZx8b5pBhsrGkbJCIFy3Yb2UN9xGEpLdg" />
 
     ...
-  </head>
+  </head>  <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google-site-verification" content="v_fePNwYgduL16rfMXPZtNTdUZGOCH5JfAZXsZ5VrjM" />
+    <meta name="google-site-verification" content="aXUdr07wypDZx8b5pBhsrGkbJCIFy3Yb2UN9xGEpLdg" />
+    <title>BG Remove AI – Free In-Browser Background Remover</title>
